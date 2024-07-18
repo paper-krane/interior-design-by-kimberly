@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/interior-designby-kimberly/dist/',
+  base: '/interior-design-by-kimberly/dist/',
   // base: '/',
   plugins: [vue()],
   resolve: {
